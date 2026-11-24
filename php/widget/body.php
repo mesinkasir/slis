@@ -1,1 +1,0 @@
-<body><?php include(THEME_DIR_PHP.'widget/main.php'); ?></body></html>

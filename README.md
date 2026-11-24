@@ -1,5 +1,11 @@
 # SLIS - Fremium bludit themes
 
+Migration download new version: 
+
+[Download SLIS + Bludit Installation →](https://creativitaz.gumroad.com/l/slisbludit)
+
+Explore all projects: https://www.hockeycomputindo.com
+
 ![slis bludit website blog themes template](img/slis.png)
 
 A modern clean and simple slider website blog design with SLIS 
